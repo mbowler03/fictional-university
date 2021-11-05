@@ -36,7 +36,7 @@ define( 'DB_HOST', 'localhost' );
 
 } else {
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'dbhqzbr0gjangz' );
+define( 'DB_NAME', 'dbc6gglmk1taaj' );
 
 /** MySQL database username */
 define( 'DB_USER', 'uzie2pukgnkle' );
