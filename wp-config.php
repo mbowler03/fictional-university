@@ -20,21 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 
-if (strstr($_SERVER['SERVER_NAME'], 'fictional-university.local')) {
 
-/** The name of the database for WordPress */
-define( 'DB_NAME', 'local' );
-
-/** MySQL database username */
-define( 'DB_USER', 'root' );
-
-/** MySQL database password */
-define( 'DB_PASSWORD', 'root' );
-
-/** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
-
-} else {
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'dbc6gglmk1taaj' );
 
@@ -46,7 +32,7 @@ define( 'DB_PASSWORD', 'b$l<%4b124rf' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
-}
+
 
 
 /** Database Charset to use in creating database tables. */
