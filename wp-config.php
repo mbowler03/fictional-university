@@ -42,10 +42,10 @@ define( 'DB_NAME', 'dbhqzbr0gjangz' );
 define( 'DB_USER', 'uzie2pukgnkle' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'pleasedonthackme' );
+define( 'DB_PASSWORD', 'b$l<%4b124rf' );
 
 /** MySQL hostname */
-define( 'DB_HOST', '127.0.0.1' );
+define( 'DB_HOST', 'localhost' );
 }
 
 
