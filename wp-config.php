@@ -45,7 +45,7 @@ define( 'DB_USER', 'uzie2pukgnkle' );
 define( 'DB_PASSWORD', 'b$l<%4b124rf' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'siteground.net' );
+define( 'DB_HOST', 'localhost' );
 }
 
 
