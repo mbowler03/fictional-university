@@ -36,16 +36,16 @@ define( 'DB_HOST', 'localhost' );
 
 } else {
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'local' );
+define( 'DB_NAME', 'dbhqzbr0gjangz' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'uzie2pukgnkle' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'pleasedonthackme' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '127.0.0.1' );
 }
 
 
