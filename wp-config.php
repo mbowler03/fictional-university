@@ -17,8 +17,6 @@
  *
  * @package WordPress
  */
-define('WP_SITEURL', 'http://www.cheapskatefinance.com');
-define('WP_HOME', 'http://www.cheapskatefinance.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 
